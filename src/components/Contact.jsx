@@ -69,7 +69,7 @@ const Contact = () => {
                       Email
                     </h4>
                     <a
-                      href="mailto:john.doe@example.com"
+                      href="mailto:lidetuamare19@gmail.com"
                       className="text-base font-medium text-gray-900 dark:text-white hover:text-emerald-600 dark:hover:text-emerald-400"
                     >
                       lidetuamare19@gmail.com
